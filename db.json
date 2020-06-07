@@ -3,6 +3,10 @@
 			"post" : {
 				"title" : "Helio announced as a Schulze Entrepreneuship Finalist",
 			        "body" : "Insert content here"	
-				 }
+				 },
+			"post" : {
+				"title" : "Example title",
+				"body" : "Example content"
+				}
 		 }
 }
