@@ -2,10 +2,12 @@
 	"posts": [
 			{
 				"title" : "Helio announced as a Schulze Entrepreneuship Finalist",
+				"date" : "04/20/20",
 			        "body" : "Insert content here"	
 			},
 			{
 				"title" : "Example title",
+				"date" : "02/18/20",
 				"body" : "Example content"
 			}
 		 ]
